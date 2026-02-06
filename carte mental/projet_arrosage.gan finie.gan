@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-11-24" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2025-12-22" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
     <view zooming-state="default:6" id="gantt-chart">
         <field id="tpd3" name="Nom" width="200" order="0"/>
@@ -126,6 +126,12 @@ methode : aller sur vitascience et faire la programmation et le tester
 
 
 conclusion :]]></notes>
+        </task>
+        <task id="16" uid="0eb020062cce4cc79e00edfbb445620d" name="video du systeme d'arosage" meeting="false" start="2026-01-29" duration="5" complete="100" webLink="https%3A%2F%2Fjadenlecot.github.io%2Fprojet_arrosage%2FVideo%2FVideo_Systeme_Arrosage.mp4" expand="true">
+            <notes><![CDATA[objectif : presenter notre systeme d'arosage
+
+
+methode : prendre une video]]></notes>
         </task>
         <task id="9" uid="cea968f9b7b14dd29fc66ba7ffb11cb1" name="diagramme de gant" meeting="false" start="2025-11-21" duration="50" complete="100" expand="true"/>
     </tasks>
